@@ -1,0 +1,10 @@
+A entregar Miercoles 18, a las 12 
+Un sistema con bace de datos con 3 tablas y relacionadas, con los crut respectivos
+El sistema debe de pedir Un login para que solo accedan personas con permiso, estos peuden ser
+administrador o leector
+Tiene que acceder a documentos en PDF, reportes de recidencia progecional 
+Tiene 2 roles, el administrador y el Lector
+# El Administrador puede dar de alta y baja a usuarios y documentos
+# El Lector solo pude leer los documentos
+Debe de tener un exelente diseño
+El sistema debe de estar en linea
